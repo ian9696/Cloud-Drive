@@ -24,3 +24,6 @@ Start client and connect to server with IPv4 address <IP_addr> and TCP port <por
 ```
 $ ./client <IP_addr> <port_number>
 ```
+
+## Note
+Client should enter command only after the previous one is already processed by server.
