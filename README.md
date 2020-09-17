@@ -20,7 +20,7 @@ Start server on TCP port <port_number>.
 $ ./server <port_number>
 ```
 
-Start client and connect to server with IP address <IP_addr> and TCP port <port_number>.
+Start client and connect to server with IPv4 address <IP_addr> and TCP port <port_number>.
 ```
 $ ./client <IP_addr> <port_number>
 ```
