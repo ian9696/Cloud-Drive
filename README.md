@@ -13,9 +13,14 @@ Compile server/client source code.
 ```
 $ g++ -o server server.cpp
 $ g++ -o client client.cpp
-
 ```
+
 Start server on TCP port <port_number>.
 ```
-$ 
+$ ./server <port_number>
+```
+
+Start client and connect to server with IP <IP_addr> and TCP port <port_number>.
+```
+$ ./client <IP_addr> <port_number>
 ```
