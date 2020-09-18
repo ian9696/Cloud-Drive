@@ -1,6 +1,8 @@
 ## Cloud Drive
 Cloud drive server and client to store files remotely, implemented using C/C++.
 
+Client can login by entering client ID to manage files across sessions.
+
 ## Command for Client
 Command | Function
 :-:|-
