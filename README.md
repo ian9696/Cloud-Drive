@@ -30,24 +30,24 @@ $ ./client <IP_addr> <port_number>
 ## Versions
 There are multiple versions of cloud drive server/client.
 
-select_login
+### select_login
 - Support login/logout by client ID to manage cloud drive across sessions.
 
 - Support multiple client connections (Concurrent connections of the same ID not allowed).
 
 - Implemented using select().
 
-select
+### select
 - Support multiple client connections.
 
 - Implemented using select().
 
-fork
+### fork
 - Support multiple client connections.
 
 - Implemented using fork().
 
-iterative
+### iterative
 - Support single client connection.
 
 ## Note
