@@ -52,3 +52,5 @@ There are multiple versions of cloud drive server/client.
 
 ## Note
 Client should enter command only after the previous one is already processed by server.
+
+Server stores files in RAM.
