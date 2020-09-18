@@ -28,7 +28,7 @@ $ ./client <IP_addr> <port_number>
 ```
 
 ## Versions
-There are 4 versions of cloud drive server/client implementations.
+There are multiple versions of cloud drive server/client.
 ### 
 
 ## Note
