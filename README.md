@@ -27,5 +27,9 @@ Start client and connect to server with IPv4 address <IP_addr> and TCP port <por
 $ ./client <IP_addr> <port_number>
 ```
 
+## Versions
+There are 4 versions of cloud drive server/client.
+### 
+
 ## Note
 Client should enter command only after the previous one is already processed by server.
