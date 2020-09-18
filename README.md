@@ -29,7 +29,10 @@ $ ./client <IP_addr> <port_number>
 
 ## Versions
 There are multiple versions of cloud drive server/client.
-### 
+
+select_login
+- Implemented using select.
+
 
 ## Note
 Client should enter command only after the previous one is already processed by server.
